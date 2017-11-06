@@ -71,3 +71,4 @@ C:\Users\Lar\Documents\Visual Studio 2015\Projects\GigFeed\GigFeed\obj\Debug\Gig
 C:\Users\Lar\Documents\Visual Studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.csproj.GenerateResource.Cache
 C:\Users\Lar\Documents\Visual Studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.CreateGigTable.resources
 C:\Users\Lar\Documents\Visual Studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.PopulateGenresTable.resources
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.AddNameToApplicationUser.resources
