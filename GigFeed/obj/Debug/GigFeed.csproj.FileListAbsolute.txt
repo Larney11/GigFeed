@@ -72,3 +72,14 @@ C:\Users\Lar\Documents\Visual Studio 2015\Projects\GigFeed\GigFeed\obj\Debug\Gig
 C:\Users\Lar\Documents\Visual Studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.CreateGigTable.resources
 C:\Users\Lar\Documents\Visual Studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.PopulateGenresTable.resources
 C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.AddNameToApplicationUser.resources
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.AddAttendance.resources
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\System.Net.Http.Formatting.dll
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\System.Web.Http.dll
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\System.Web.Http.WebHost.dll
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\System.Net.Http.Formatting.xml
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\System.Web.Http.xml
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\System.Web.Http.WebHost.xml
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\Swashbuckle.Core.dll
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\WebActivatorEx.dll
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.FollowingTable.resources
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.generalUpdate.resources
