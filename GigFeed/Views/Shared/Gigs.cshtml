@@ -1,6 +1,7 @@
 ﻿@model GigFeed.ViewModels.GigsViewModel
 @{
     ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h1>@Model.Heading</h1>
@@ -19,6 +20,14 @@
             <div class="details">
                 <span class="artist">
                     @gig.Artist.Name 
+
+                    @if(gig.IsCanceled)
+                    {
+                        <span class="label label-warning">
+                            Cancelled
+                        </span>
+                    }
+
                     @if (Model.ShowActions)
                     {
                         <button class="btn btn-link btn-sm js-toggle-follow" data-user-id="@gig.ArtistId">Follow</button>
@@ -27,9 +36,11 @@
                 <span class="genre">
                     @gig.Genre.Name
                 </span>
-                @if (Model.ShowActions)
+                @if (Model.ShowActions && !gig.IsCanceled)
                 {
-                    <button data-gig-id="@gig.Id" class="btn btn-default btn-sm pull-right js-toggle-attendance">Going?</button>
+                    <button data-gig-id="@gig.Id" class="btn btn-default btn-sm pull-right js-toggle-attendance">
+                        Going?
+                    </button>
                 }
             </div>
         </li>
