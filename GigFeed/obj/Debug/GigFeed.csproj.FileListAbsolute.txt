@@ -84,3 +84,6 @@ C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\WebActiva
 C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.FollowingTable.resources
 C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.generalUpdate.resources
 C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.AddIsCancelledToGig.resources
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\obj\Debug\GigFeed.Migrations.AddNotification.resources
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\AutoMapper.dll
+C:\Users\Lar\documents\visual studio 2015\Projects\GigFeed\GigFeed\bin\AutoMapper.xml
