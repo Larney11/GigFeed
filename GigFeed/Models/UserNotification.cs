@@ -18,7 +18,7 @@ namespace GigFeed.Models
 
         public Notification Notification { get; private set; }
 
-        public bool IsRead { get; set; }
+        public bool IsRead { get; private set; }
 
         // Default constructor needed when there is a custom constructor 
         // protected because this constructor will not be used
@@ -37,6 +37,11 @@ namespace GigFeed.Models
 
             User = user;
             Notification = notification;
+        }
+
+        public void Read()
+        {
+            IsRead = true;
         }
     }
 }
